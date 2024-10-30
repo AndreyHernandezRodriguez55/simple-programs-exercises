@@ -31,7 +31,7 @@
 
 #[Lang09]	Hans Petter Langtangen. A Primer on Scientific Programming with Python. Springer-Verlag, 2009.
 
-M = 67  # Mass in grams for a large egg
+M = 47  # Mass in grams for a large egg
 rho = 1.038  # density g/cm^3
 c = 3.7  # Heat capacity in J/(g K)
 K = 5.4e-3  # Thermal conductivity in W/(cm·K)
